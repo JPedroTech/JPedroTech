@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm João Pedro de Sousa
 
 🚀 **Junior Software Engineer | Full-Stack Engineer**  
 🇧🇷 Brazil
